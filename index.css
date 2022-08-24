@@ -1,0 +1,35 @@
+* {
+    font-family: 'Roboto Slab', serif;
+    background-color: bisque;    
+}
+
+h1 {
+    font-family:'Rubik Maze', cursive;
+}
+.parrafo {
+    background-color: #76c25d !important;
+    font-weight: 300;
+    font-size: 100%;
+}    
+
+#parrafo2 {
+    background-color: rgb(175,176,156);
+    color: red;
+    font-weight: 700;
+    font-size: 6vw /*ancho de la visual*/;
+}
+
+#parrafo3 {
+    background-color: rgba(175,176,156,0.2);
+    font-size: 1rem; /*1 rem equivale a 16 px */
+}
+
+#parrafo5 {
+    background-color: rgba(175,176,156,0.2);
+    font-size: 0.8em; /*si el padre tiene 20px en EN em sería = 16/20 = 0.8 em*/
+}
+
+.fa-heart{
+    font-size: 30px;
+    color:rgb(229, 239, 39);
+}
